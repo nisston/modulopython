@@ -4,7 +4,7 @@ O experimento proposto tem como objetivo principal desenvolver e aplicar uma met
 
 O documentos é uma etapa importante no processo de validação do trabalho de tese de doutorado submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande - Campus I como parte dos requisitos necessários para obtenção do grau de Doutora em Ciência da Computação.
 
-***
+___
 
 **Tese:** Desenvolvendo o pensamento computacional no nível superior através de estratégias de ensino-aprendizagem para programação
 **Aluno:** Nisston Moraes Tavares de Melo
