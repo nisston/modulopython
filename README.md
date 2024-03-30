@@ -1,4 +1,6 @@
-<center>![UFCG](https://github.com/nisston/modulopython/blob/main/logo/UfcgBrasao.jpg)<center>
+<div align="center">
+![UFCG](https://github.com/nisston/modulopython/blob/main/logo/UfcgBrasao.jpg)
+</div>
 
 # Estudo Piloto (Repositorio do experimento)
 
