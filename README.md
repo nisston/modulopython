@@ -1,4 +1,4 @@
-# Repositório do Estudo Pitlo
+# Repositório do Estudo Piloto
 
 O experimento proposto tem como objetivo principal desenvolver e aplicar uma metodologia inovadora para a disciplina de Introdução à Ciência da Computação (ICC) lecionada pela Unidade Acadêmica de Sistema e Computação (UASC), destinada a estudantes de cursos não relacionados à computação, com o intuito de aprimorar as competências do Pensamento Computacional (PC). Para alcançar este objetivo, o experimento se propõe a analisar metodologias previamente aplicadas no ensino superior, a fim de identificar abordagens eficazes para a disciplina em questão. Além disso, pretende-se extrair possibilidades e adaptar estratégias existentes. Através dessa investigação, busca-se não apenas promover a compreensão dos conceitos de computação, mas também desenvolver habilidades cognitivas e práticas que sejam relevantes e aplicáveis aos estudantes não pertencentes à área de computação, contribuindo assim para uma experiência de aprendizado mais significativa e eficaz no ensino e aprendizagem das habilidades do PC.
 
@@ -12,35 +12,34 @@ Linha de Pesquisa: Educação em Ciência da Computação
 
 Documentos do Comitê de Ética
 
-Projeto submetido ao comitê
-Termo de Compromisso de divulgação dos resultados
-Termo de Anuência da Direção Escolar
-Termo de Assentimento - Menor de Idade
-Termo de Livre Esclarecido - Maior de Idade
+* Projeto submetido ao comitê
+* Termo de Compromisso de divulgação dos resultados
+* Termo de Anuência da Direção Escolar
+* Termo de Assentimento - Menor de Idade
+* Termo de Livre Esclarecido - Maior de Idade
 
 Validação do Protótipo
 
 1ª Aula
-Planos de Aula - Material do Professor
-Roteiros de Aula - Material do Aluno
+* Planos de Aula - Material do Professor
+* Roteiros de Aula - Material do Aluno
 
 2ª Aula
-Planos de Aula - Material do Professor
-Roteiros de Aula - Material do Aluno
+* Planos de Aula - Material do Professor
+* Roteiros de Aula - Material do Aluno
 
 Instâncias Utilizadas na Intervenção
 Planos de Aula - Material do Professor
 Roteiros de Aula - Material do Aluno
 
 Materiais da Intervenção - Turma de Controle
-Aula 1 - Slide
-Aula 1 - Vídeo: Entrevista com Sophia
-Aula 1 - Vídeo: O Bolo do Chaves e Quico
-Aula 2
-Aula 3
+* Aula 1 - Slide
+* Aula 1 - Vídeo: Entrevista com Sophia
+* Aula 1 - Vídeo: O Bolo do Chaves e Quico
+* Aula 2
 
 Ferramentas de Coleta de Dados
-Teste de Pensamento Computacional
-Gabarito Pré-Teste
-Gabarito Pós-Teste
-Questionário de Perfil do Aluno
+* Questionário de Perfil do Aluno
+* Pré-Teste - Teste de Pensamento Computacional
+* Pós-Teste - Teste de Pensamento Computacional
+
