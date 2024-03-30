@@ -16,14 +16,6 @@ O documentos é uma etapa importante no processo de validação do trabalho de t
 
 **Linha de Pesquisa:** Educação em Ciência da Computação
 
-## Documentos do Comitê de Ética
-
-* Projeto submetido ao comitê
-* Termo de Compromisso de divulgação dos resultados
-* Termo de Anuência da Direção Escolar
-* Termo de Assentimento - Menor de Idade
-* Termo de Livre Esclarecido - Maior de Idade
-
 ## Validação do Protótipo
 
 1ª Aula
@@ -39,7 +31,7 @@ O documentos é uma etapa importante no processo de validação do trabalho de t
 Planos de Aula - Material do Professor
 Roteiros de Aula - Material do Aluno
 
-## Materiais da Intervenção - Turma do Experimento
+## Turma do Experimento (Materiais da Intervenção)
 
 * Aula 1 - Slide - Lista em Python
 * Aula 1 - Lista de Práticas
@@ -48,9 +40,10 @@ Roteiros de Aula - Material do Aluno
 * Aula 2 - Lista de Práticas
 * Aula 2 - Lista de Exercício
   
-## Materiais da Intervenção - Turma de Controle
+## Turma de Controle (Material do professor)
 
-* Aula
+* Aula 1
+* Aula 2
 
 ## Ferramentas de Coleta de Dados
 
