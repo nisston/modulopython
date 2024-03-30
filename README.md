@@ -15,7 +15,7 @@ ___
 
 **Linha de Pesquisa:** Educação em Ciência da Computação
 
-**Documentos do Comitê de Ética**
+## Documentos do Comitê de Ética
 
 * Projeto submetido ao comitê
 * Termo de Compromisso de divulgação dos resultados
@@ -23,7 +23,7 @@ ___
 * Termo de Assentimento - Menor de Idade
 * Termo de Livre Esclarecido - Maior de Idade
 
-**Validação do Protótipo**
+## Validação do Protótipo
 
 1ª Aula
 * Planos de Aula - Material do Professor
@@ -33,7 +33,8 @@ ___
 * Planos de Aula - Material do Professor
 * Roteiros de Aula - Material do Aluno
 
-**Instâncias Utilizadas na Intervenção**
+## Instâncias Utilizadas na Intervenção
+
 Planos de Aula - Material do Professor
 Roteiros de Aula - Material do Aluno
 
