@@ -1,4 +1,4 @@
-# Repositório do Estudo Piloto
+# Estudo Piloto (Repositorio do experimento)
 
 O experimento proposto tem como objetivo principal desenvolver e aplicar uma metodologia inovadora para a disciplina de Introdução à Ciência da Computação (ICC) lecionada pela Unidade Acadêmica de Sistema e Computação (UASC), destinada a estudantes de cursos não relacionados à computação, com o intuito de aprimorar as competências do Pensamento Computacional (PC). Para alcançar este objetivo, o experimento se propõe a analisar metodologias previamente aplicadas no ensino superior, a fim de identificar abordagens eficazes para a disciplina em questão. Além disso, pretende-se extrair possibilidades e adaptar estratégias existentes. Através dessa investigação, busca-se não apenas promover a compreensão dos conceitos de computação, mas também desenvolver habilidades cognitivas e práticas que sejam relevantes e aplicáveis aos estudantes não pertencentes à área de computação, contribuindo assim para uma experiência de aprendizado mais significativa e eficaz no ensino e aprendizagem das habilidades do PC.
 
