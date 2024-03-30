@@ -4,9 +4,10 @@ O experimento proposto tem como objetivo principal desenvolver e aplicar uma met
 
 O documentos é uma etapa importante no processo de validação do trabalho de tese de doutorado submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande - Campus I como parte dos requisitos necessários para obtenção do grau de Doutora em Ciência da Computação.
 
-___
+##
 
 **Tese:** Desenvolvendo o pensamento computacional no nível superior através de estratégias de ensino-aprendizagem para programação
+
 **Aluno:** Nisston Moraes Tavares de Melo
 
 **Orientadora:** Lívia Maria Rodrigues Sampaio Campos
@@ -38,7 +39,8 @@ ___
 Planos de Aula - Material do Professor
 Roteiros de Aula - Material do Aluno
 
-**Materiais da Intervenção - Turma do Experimento**
+## Materiais da Intervenção - Turma do Experimento
+
 * Aula 1 - Slide - Lista em Python
 * Aula 1 - Lista de Práticas
 * Aula 1 - Lista de Exercício
@@ -46,10 +48,12 @@ Roteiros de Aula - Material do Aluno
 * Aula 2 - Lista de Práticas
 * Aula 2 - Lista de Exercício
   
-**Materiais da Intervenção - Turma de Controle**
+## Materiais da Intervenção - Turma de Controle
+
 * Aula
 
-**Ferramentas de Coleta de Dados**
+## Ferramentas de Coleta de Dados
+
 * Formulário 01 - Dados demográfico
 * Formulário 02 - Pré-Teste do Pensamento Computacional
 * Formulário 03 - Pós-Teste do Pensamento Computacional
