@@ -6,9 +6,13 @@ O documentos é uma etapa importante no processo de validação do trabalho de t
 
 
 **Tese:** Um Processo Educacional para Programação Ensino-Aprendizagem com Robótica Educacional no Ensino Médiohool
+
 **Aluno:** Nisston Moraes Tavares de Melo
+
 **Orientadora:** Lívia Maria Rodrigues Sampaio Campos
+
 **Área de Concentração:** Ciência da Computação
+
 **Linha de Pesquisa:** Educação em Ciência da Computação
 
 **Documentos do Comitê de Ética**
