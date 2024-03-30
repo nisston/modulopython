@@ -1,3 +1,4 @@
+![UFCG](https://github.com/nisston/modulopython/blob/main/logo/UfcgBrasao.jpg)
 # Estudo Piloto (Repositorio do experimento)
 
 O experimento é uma etapa importante no processo de validação do trabalho de tese de doutorado submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande (UFCG) - Campus I como parte dos requisitos necessários para obtenção do grau de Doutora em Ciência da Computação.
