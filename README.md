@@ -4,13 +4,14 @@ O experimento proposto tem como objetivo principal desenvolver e aplicar uma met
 
 O documentos é uma etapa importante no processo de validação do trabalho de tese de doutorado submetida à Coordenação do Curso de Pós-Graduação em Ciência da Computação da Universidade Federal de Campina Grande - Campus I como parte dos requisitos necessários para obtenção do grau de Doutora em Ciência da Computação.
 
-Tese: Um Processo Educacional para Programação Ensino-Aprendizagem com Robótica Educacional no Ensino Médiohool
-Aluno: Nisston Moraes Tavares de Melo
-Orientadora: Lívia Maria Rodrigues Sampaio Campos
-Área de Concentração: Ciência da Computação
-Linha de Pesquisa: Educação em Ciência da Computação
 
-Documentos do Comitê de Ética
+**Tese:** Um Processo Educacional para Programação Ensino-Aprendizagem com Robótica Educacional no Ensino Médiohool
+**Aluno:** Nisston Moraes Tavares de Melo
+**Orientadora:** Lívia Maria Rodrigues Sampaio Campos
+**Área de Concentração:** Ciência da Computação
+**Linha de Pesquisa:** Educação em Ciência da Computação
+
+**Documentos do Comitê de Ética**
 
 * Projeto submetido ao comitê
 * Termo de Compromisso de divulgação dos resultados
@@ -18,7 +19,7 @@ Documentos do Comitê de Ética
 * Termo de Assentimento - Menor de Idade
 * Termo de Livre Esclarecido - Maior de Idade
 
-Validação do Protótipo
+**Validação do Protótipo**
 
 1ª Aula
 * Planos de Aula - Material do Professor
@@ -28,18 +29,24 @@ Validação do Protótipo
 * Planos de Aula - Material do Professor
 * Roteiros de Aula - Material do Aluno
 
-Instâncias Utilizadas na Intervenção
+**Instâncias Utilizadas na Intervenção**
 Planos de Aula - Material do Professor
 Roteiros de Aula - Material do Aluno
 
-Materiais da Intervenção - Turma de Controle
-* Aula 1 - Slide
-* Aula 1 - Vídeo: Entrevista com Sophia
-* Aula 1 - Vídeo: O Bolo do Chaves e Quico
-* Aula 2
+**Materiais da Intervenção - Turma do Experimento**
+* Aula 1 - Slide - Lista em Python
+* Aula 1 - Lista de Práticas
+* Aula 1 - Lista de Exercício
+* Aula 2 - Slide - Matriz em Python
+* Aula 2 - Lista de Práticas
+* Aula 2 - Lista de Exercício
+  
+**Materiais da Intervenção - Turma de Controle**
+* Aula
 
-Ferramentas de Coleta de Dados
-* Questionário de Perfil do Aluno
-* Pré-Teste - Teste de Pensamento Computacional
-* Pós-Teste - Teste de Pensamento Computacional
+**Ferramentas de Coleta de Dados**
+* Formulário 01 - Dados demográfico
+* Formulário 02 - Pré-Teste do Pensamento Computacional
+* Formulário 03 - Pós-Teste do Pensamento Computacional
+* Formulário 04 - Feedback da Turma
 
