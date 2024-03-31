@@ -35,8 +35,9 @@ O experimento proposto tem como objetivo principal desenvolver e aplicar uma met
 
 ## Instâncias Utilizadas na Intervenção
 
-Planos de Aula - Material do Professor
-Roteiros de Aula - Material do Aluno
+* Material do Professor
+[Plano de Aula 01](https://github.com/nisston/modulopython/blob/main/Plano_de_Aula_01.pdf)
+[Plano de Aula 02](https://github.com/nisston/modulopython/blob/main/Plano_de_Aula_02.pdf)
 
 ## Turma do Experimento (Materiais da Intervenção)
 
