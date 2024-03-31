@@ -57,8 +57,8 @@ O experimento proposto tem como objetivo principal desenvolver e aplicar uma met
 
 ## Ferramentas de Coleta de Dados
 
-* Formulário 01 - Dados demográfico
-* Formulário 02 - Pré-Teste do Pensamento Computacional
-* Formulário 03 - Pós-Teste do Pensamento Computacional
-* Formulário 04 - Feedback da Turma
+* [Formulário 01 - Dados demográfico](https://github.com/nisston/modulopython/blob/main/Formul%C3%A1rio_01_Dados%20demogr%C3%A1ficos%20-%20Formul%C3%A1rios%20Google.pdf)
+* [Formulário 02 - Pré-Teste do Pensamento Computacional](https://github.com/nisston/modulopython/blob/main/Formul%C3%A1rio_02_Pr%C3%A9_Teste_PC%20-%20Formul%C3%A1rios%20Google.pdf)
+* [Formulário 03 - Pós-Teste do Pensamento Computacional](https://github.com/nisston/modulopython/blob/main/Formul%C3%A1rio_03_P%C3%B3s_Teste_PC%20-%20Formul%C3%A1rios%20Google.pdf)
+* [Formulário 04 - Feedback da Turma](https://github.com/nisston/modulopython/blob/main/Formul%C3%A1rio_04_FeedBack_da_Turma%20-%20Formul%C3%A1rios%20Google.pdf)
 
