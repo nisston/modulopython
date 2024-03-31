@@ -43,12 +43,12 @@ O experimento proposto tem como objetivo principal desenvolver e aplicar uma met
 
 ## Turma do Experimento (Materiais da Intervenção)
 
-* Aula 1 - Slide - Lista em Python
-* Aula 1 - Lista de Práticas
-* Aula 1 - Lista de Exercício
-* Aula 2 - Slide - Matriz em Python
-* Aula 2 - Lista de Práticas
-* Aula 2 - Lista de Exercício
+* [Aula 1 - Slide - Lista em Python](https://github.com/nisston/modulopython/blob/main/01_Aula_01_Lista.pdf)
+* [Aula 1 - Lista de Práticas](https://github.com/nisston/modulopython/blob/main/02_pratica_1_lista.py)
+* [Aula 1 - Lista de Exercício](https://github.com/nisston/modulopython/blob/main/Lista_de_Exerc%C3%ADcio_01_Lista.pdf)
+* [Aula 2 - Slide - Matriz em Python](https://github.com/nisston/modulopython/blob/main/01_Aula_02_Matriz.pdf)
+* [Aula 2 - Lista de Práticas](https://github.com/nisston/modulopython/blob/main/02_pratica_2_matriz.py)
+* [Aula 2 - Lista de Exercício](https://github.com/nisston/modulopython/blob/main/Lista_de_Exerc%C3%ADcio_02_Matriz.pdf)
   
 ## Turma de Controle (Material do professor)
 
